@@ -1,0 +1,11 @@
+{
+    "apt" : 
+    [
+        {"name" : "docker"},
+        {"name" : "python3"}
+    ],
+    "pip":
+    [
+        {"name" : "pytest"}
+    ]
+}
